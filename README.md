@@ -11,6 +11,6 @@ Soy un programador apasionado por el desarrollo web y el diseño de interfaces. 
 
 ## 📫 Conéctate conmigo
 
-- ✉️ [Correo Electrónico](cmlogmztrbo@gmail.com)
+- ✉️ cmlogmztrbo@gmail.com
 
 Siempre estoy abierto a aprender y colaborar en nuevos proyectos. ¡Hablemos!
