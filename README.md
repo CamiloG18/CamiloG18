@@ -10,7 +10,7 @@ Este es un repositorio especial porque su `README.md` aparece en tu perfil de Gi
 
 - 💻 Soy programador especializado en desarrollo web y diseño de interfaces.
 - ⭐ Objetivo 2025: Contribuir más a proyectos de código abierto <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ Me apasiona el desarrollo, el diseño UI/UX y la tecnología.
+- ⚡ Me apasiona el desarrollo y la tecnología soy especializado en Frontend.
 
 #### Tecnologías y Herramientas
 <p>
