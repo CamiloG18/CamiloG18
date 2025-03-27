@@ -27,11 +27,9 @@ Este es un repositorio especial porque su `README.md` aparece en tu perfil de Gi
 
 #### Encuéntrame en:
 <p align='left'>
-   <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
-   <a href="https://github.com/TU_USUARIO" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
+   <a href="https://github.com/CamiloG18" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
 </p>
 
-![Última actualización](https://github.com/UjwalKandi/UjwalKandi/blob/master/svg/last%20commit.svg)
 
 -----
 Créditos: [Camilo](https://github.com/TU_USUARIO)
