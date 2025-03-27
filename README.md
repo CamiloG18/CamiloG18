@@ -11,7 +11,6 @@ Soy un programador apasionado por el desarrollo web y el diseño de interfaces. 
 
 ## 📫 Conéctate conmigo
 
-- 🌐 [Mi GitHub](https://github.com/TU_USUARIO)
-- ✉️ [Correo Electrónico](mailto:TUCORREO@ejemplo.com)
+- ✉️ [Correo Electrónico](cmlogmztrbo@gmail.com)
 
 Siempre estoy abierto a aprender y colaborar en nuevos proyectos. ¡Hablemos!
