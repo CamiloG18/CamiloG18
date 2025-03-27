@@ -6,7 +6,7 @@ Este es un repositorio especial porque su `README.md` aparece en tu perfil de Gi
 
 <h2 align="left">Hola, soy <a href="#" target="_blank" rel="noopener noreferrer">Camilo</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
-<a href="https://github.com/TU_USUARIO"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+<a href="https://github.com/Camilog18"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
 - 💻 Soy programador especializado en desarrollo web y diseño de interfaces.
 - ⭐ Objetivo 2025: Contribuir más a proyectos de código abierto <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
